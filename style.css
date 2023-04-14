@@ -148,8 +148,6 @@ a{
 @media (min-width: 320px) and (max-width: 600px) {
     /* Your styles for phone screens go here */
     .projects-item{
-        width: 200px;
-        height: 200px;
         font-size: 11px;
         margin: 5px 39px 5px 39px;
     }
