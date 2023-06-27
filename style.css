@@ -145,57 +145,7 @@ a{
 
 
 }
-@media (min-width: 320px) and (max-width: 600px) {
-    /* Your styles for phone screens go here */
-    .projects-item{
-        width: 250px;
-        height: 250px;
-        font-size: 15px;
-        margin: 5px 39px 5px 39px;
-    }
-    #projects{
-        width: 100%;
-        height: 150vh;
-    }
 
-  }
-  @media only screen and (min-width: 600px) and (max-width: 700px) {
-    .projects-item{
-        width: 310px;
-        height: 290px;
-        font-size: 14px;
-        margin: 10px 20px 30px 20px;
-    }
-    #projects{
-        width: 100%;
-        height: 150vh;
-    }
-  }
-  @media only screen and (min-width: 700px) and (max-width: 1024px) {
-    .projects-item{
-        width: 310px;
-        height: 290px;
-        font-size: 14px;
-        margin: 10px 20px 30px 20px;
-    }
-    #projects{
-        width: 100%;
-        height: 150vh;
-    }
-  }
-  @media (min-width: 1025px) and (max-width: 1279px) {
-    /* Styles for laptops with smaller screens */
-    .projects-item{
-        width: 300px;
-        height: 300px;
-        font-size: 15px;
-        margin: 10px 30px 10px 30px;
-    }
-    #projects{
-        width: 100%;
-        height: 140vh;
-    }
-  }
 .project-img{
     
     overflow: hidden;
