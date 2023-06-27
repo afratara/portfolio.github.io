@@ -38,10 +38,12 @@ a{
     margin: 0;
     padding: 0;
     display: flex;
+    overflow-y: hidden;
   }
   
   .navbar li {
     margin-left: 20px;
+    overflow-y: hidden;
   }
   
   .navbar a {
