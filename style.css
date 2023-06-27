@@ -30,6 +30,7 @@ a{
     left: 0;
     width: 100%;
     z-index:1;
+    overflow-y: hidden;
   }
   
   .navbar ul {
